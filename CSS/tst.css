@@ -1,0 +1,14 @@
+body{
+    background-color:darkgray;
+
+}
+.one{
+    color: aliceblue;
+text-align: center;
+}
+h1{ font-family: "JetBrains Mono ExtraBold";
+}
+p{font-family: "JetBrains Mono SemiBold";
+}
+.two{image-resolution:200px
+}

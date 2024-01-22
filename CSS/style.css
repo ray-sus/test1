@@ -1,0 +1,37 @@
+body{
+    background-color: black;
+    color: white;
+        text-align: center;
+padding:10px
+    margin: 10px;
+ p
+{
+     color: maroon;
+ }
+}
+ .one{
+     color: red;
+     font-size: x-small;
+  font-family: "JetBrains Mono SemiBold";
+ }
+ .two{
+     border: red 3px solid;
+     border-radius:100px 20px 30px 100px
+ }
+ .three{
+     border-radius: 200px;
+     padding: 20px;
+ }
+ a{
+     text-decoration: none;
+     color: red;
+
+ }
+ a:hover{ color: azure;
+     font-size: xx-large;
+     border-bottom: aqua 1px solid;
+
+   }
+ #one{
+     background-color: #C0C0C0;
+ }

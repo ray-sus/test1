@@ -1,0 +1,16 @@
+#one{
+    background-color: red;
+    font-family: aakar;
+    text-underline: #green;
+}
+#two{
+    background-color: #333333;
+    font-family: "Noto Sans Mono CJK TC"
+}
+h1{
+    text-align: center;
+    font: xx-large;
+}
+body{
+    background-color: #333333;
+}
